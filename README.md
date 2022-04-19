@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AbhinavParshad
+- 👀 I’m interested in game and web development
+- 🌱 I’m currently learning C#, HTML, CSS
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me: parshad.abhinay@gmail.com
